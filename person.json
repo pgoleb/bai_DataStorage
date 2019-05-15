@@ -1,0 +1,37 @@
+{
+    "person": {
+        "name": "Paweł",
+        "surname": "Mazowiecki",
+        "age": 24,
+        "gender": "male",
+        "email": "p.mazowiecki@gmail.com",
+        "phone": {
+            "landline": "968 426 795",
+            "mobile": "758 496 182"
+        },
+        "address": {
+            "street": "Leśna",
+            "home number": 51,
+            "postal code": "25 - 000",
+            "city": "Kielce"
+        },
+        "interests": [
+            "animals", 
+            "music",
+            "travels"
+        ],
+        "family": {
+            "spouse": {
+                "name": "Aleksandra",
+                "surname": "Mazowiecka"
+            }
+        },
+        "children": [{
+            "name": "Albert",
+            "surname": "Mazowiecki",
+            "gender": "male",
+            "age": 10,
+            "interests": ["math", "animals"]
+        }]
+    }
+}
