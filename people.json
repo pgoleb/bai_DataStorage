@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Albert",
+        "surname": "Sosnowiecki",
+        "age": 55,
+        "gender": "male",
+        "email": "sosnowiecki.a123@gmail.com",
+        "phone": {
+            "landline": "987 858 542",
+            "mobile": "758 496 182"
+        },
+        "address": {
+            "street": "Obozowa",
+            "home number": 15,
+            "postal code": "33-105",
+            "city": "Wrocław"
+        },
+        "interests": [
+            "medicine", 
+            "cooking"
+        ],
+        "family": {
+            "spouse": {
+                "name": "Barbara",
+                "surname": "Sosnowiecka"
+            }
+        },
+        "children": [
+            {
+                "name": "Joanna",
+                "surname": "Bolo",
+                "gender": "female",
+                "age": 28,
+                "interests": ["math", "animals"]
+            },
+            {
+                "name": "Krystian",
+                "surname": "Sosnowiecki",
+                "gender": "male",
+                "age": 17,
+                "interest": ["sport"]
+            }
+        ]
+        
+    },
+    {
+        "name": "Antoni",
+        "surname": "Musiał",
+        "age": 87,
+        "gender": "male",
+        "email": "none",
+        "phone": {
+            "landline": "853 978 152",
+            "mobile": "none"
+        },
+        "address": {
+            "street": "Kościelna",
+            "home number": 17,
+            "postal code": "55 - 122",
+            "city": "Warszawa"
+        },
+        "interests": [
+            "religion", 
+            "sport"
+        ],
+        "family": {
+            "spouse": {
+                "name": "Zdzisława",
+                "surname": "Musiał"
+            }
+        },
+        "children": [
+            {
+                "name": "Karol",
+                "surname": "Musiał",
+                "gender": "male",
+                "age": 65,
+                "interests": ["electronics", "plants"]
+            }
+        ]
+        
+    },
+    {
+        "name": "Anna",
+        "surname": "Dudek",
+        "age": 25,
+        "gender": "female",
+        "email": "dkanna@gmail.com",
+        "phone": {
+            "landline": "none",
+            "mobile": "775 854 421"
+        },
+        "address": {
+            "street": "Klonowa",
+            "home number": 27,
+            "postal code": "71 - 121",
+            "city": "Augustów"
+        },
+        "interests": [
+            "policy", 
+            "economy"
+        ],
+        "family": {
+            "spouse": {
+                "name": "Andrzej",
+                "surname": "Dudek"
+            }
+        },
+        "children": []
+    }
+]
+   
