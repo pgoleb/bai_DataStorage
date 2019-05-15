@@ -1,0 +1,248 @@
+{
+   "@typ": "G",
+   "@id": "140771",
+   "@nazwa": "WZISS2-1212",
+   "@od": "2019-05-15",
+   "@do": "2019-05-29",
+   "okres": [
+      {
+         "@od": "2019-05-15",
+         "@do": "2019-05-29",
+         "@nazwa": "2019-05-15 do 2019-05-29",
+         "@wybrany": "tak"
+      },
+      {
+         "@od": "2018-09-29",
+         "@do": "2019-02-17",
+         "@nazwa": "2018-09-29 do 2019-02-17"
+      },
+      {
+         "@od": "2019-02-18",
+         "@do": "2019-09-30",
+         "@nazwa": "2019-02-18 do 2019-09-30"
+      },
+      {
+         "@od": "2017-10-01",
+         "@do": "2018-09-30",
+         "@nazwa": "2017-10-01 do 2018-09-30"
+      }
+   ],
+   "zajecia": [
+      {
+         "termin": "2019-05-15",
+         "dzien": "Śr",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Bogate aplikacje internetowe",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.B 151"
+      },
+      {
+         "termin": "2019-05-15",
+         "dzien": "Śr",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Bogate aplikacje internetowe",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab. Win8, Office16"
+      },
+      {
+         "termin": "2019-05-15",
+         "dzien": "Śr",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Programowanie kreatywne",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-1045",
+            "#text": "prof. UEK Paweł Wołoszyn"
+         },
+         "sala": "Paw.A 116 lab. Win8, Office16"
+      },
+      {
+         "termin": "2019-05-16",
+         "dzien": "Cz",
+         "od-godz": "18:30",
+         "do-godz": "20:00 (2g.)",
+         "przedmiot": "Język obcy 1.2 - grupa przedmiotów",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-05-20",
+         "dzien": "Pn",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Metody optymalizacji procesów",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-2928",
+            "#text": "mgr Przemysław Jaśko"
+         },
+         "sala": "Paw.A 301a lab.win10 Office16"
+      },
+      {
+         "termin": "2019-05-20",
+         "dzien": "Pn",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Marketing i handel elektroniczny",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-908",
+            "#text": "dr Mariusz Kuziak"
+         },
+         "sala": "Paw.B 151"
+      },
+      {
+         "termin": "2019-05-20",
+         "dzien": "Pn",
+         "od-godz": "18:30",
+         "do-godz": "20:00 (2g.)",
+         "przedmiot": "Język obcy 1.2 - grupa przedmiotów",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-05-21",
+         "dzien": "Wt",
+         "od-godz": "18:30",
+         "do-godz": "20:00 (2g.)",
+         "przedmiot": "Język obcy 1.2 - grupa przedmiotów",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-05-22",
+         "dzien": "Śr",
+         "od-godz": "11:30",
+         "do-godz": "13:00 (2g.)",
+         "przedmiot": "Bogate aplikacje internetowe",
+         "typ": "wykład",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.B 151"
+      },
+      {
+         "termin": "2019-05-22",
+         "dzien": "Śr",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Bogate aplikacje internetowe",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab. Win8, Office16"
+      },
+      {
+         "termin": "2019-05-22",
+         "dzien": "Śr",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Programowanie kreatywne",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-1045",
+            "#text": "prof. UEK Paweł Wołoszyn"
+         },
+         "sala": "Paw.A 116 lab. Win8, Office16"
+      },
+      {
+         "termin": "2019-05-23",
+         "dzien": "Cz",
+         "od-godz": "18:30",
+         "do-godz": "20:00 (2g.)",
+         "przedmiot": "Język obcy 1.2 - grupa przedmiotów",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-05-27",
+         "dzien": "Pn",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Metody optymalizacji procesów",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-2928",
+            "#text": "mgr Przemysław Jaśko"
+         },
+         "sala": "Paw.A 301a lab.win10 Office16"
+      },
+      {
+         "termin": "2019-05-27",
+         "dzien": "Pn",
+         "od-godz": "18:30",
+         "do-godz": "20:00 (2g.)",
+         "przedmiot": "Język obcy 1.2 - grupa przedmiotów",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-05-28",
+         "dzien": "Wt",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Modelowanie i symulacja komputerowa",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-899",
+            "#text": "dr hab. Wit Urban"
+         },
+         "sala": "Paw.A 301a lab.win10 Office16"
+      },
+      {
+         "termin": "2019-05-28",
+         "dzien": "Wt",
+         "od-godz": "18:30",
+         "do-godz": "20:00 (2g.)",
+         "przedmiot": "Język obcy 1.2 - grupa przedmiotów",
+         "typ": "ćwiczenia",
+         "nauczyciel": [],
+         "sala": []
+      },
+      {
+         "termin": "2019-05-29",
+         "dzien": "Śr",
+         "od-godz": "15:00",
+         "do-godz": "16:30 (2g.)",
+         "przedmiot": "Bogate aplikacje internetowe",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-218",
+            "#text": "dr Janusz Stal"
+         },
+         "sala": "Paw.A 115 lab. Win8, Office16"
+      },
+      {
+         "termin": "2019-05-29",
+         "dzien": "Śr",
+         "od-godz": "16:45",
+         "do-godz": "18:15 (2g.)",
+         "przedmiot": "Programowanie kreatywne",
+         "typ": "ćwiczenia",
+         "nauczyciel": {
+            "@moodle": "-1045",
+            "#text": "prof. UEK Paweł Wołoszyn"
+         },
+         "sala": "Paw.A 116 lab. Win8, Office16"
+      }
+   ]
+}
