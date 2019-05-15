@@ -1,0 +1,187 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<plan-zajec typ="G" id="140771" nazwa="WZISS2-1212" od="2019-05-15" do="2019-05-29">
+<okres od="2019-05-15" do="2019-05-29" nazwa="2019-05-15 do 2019-05-29" wybrany="tak"/>
+<okres od="2018-09-29" do="2019-02-17" nazwa="2018-09-29 do 2019-02-17"/>
+<okres od="2019-02-18" do="2019-09-30" nazwa="2019-02-18 do 2019-09-30"/>
+<okres od="2017-10-01" do="2018-09-30" nazwa="2017-10-01 do 2018-09-30"/>
+<zajecia>
+<termin>2019-05-15</termin>
+<dzien>Śr</dzien>
+<od-godz>11:30</od-godz>
+<do-godz>13:00 (2g.)</do-godz>
+<przedmiot>Bogate aplikacje internetowe</przedmiot>
+<typ>wykład</typ>
+<nauczyciel moodle="-218">dr Janusz Stal</nauczyciel>
+<sala>Paw.B 151</sala>
+</zajecia>
+<zajecia>
+<termin>2019-05-15</termin>
+<dzien>Śr</dzien>
+<od-godz>15:00</od-godz>
+<do-godz>16:30 (2g.)</do-godz>
+<przedmiot>Bogate aplikacje internetowe</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel moodle="-218">dr Janusz Stal</nauczyciel>
+<sala>Paw.A 115 lab. Win8, Office16</sala>
+</zajecia>
+<zajecia>
+<termin>2019-05-15</termin>
+<dzien>Śr</dzien>
+<od-godz>16:45</od-godz>
+<do-godz>18:15 (2g.)</do-godz>
+<przedmiot>Programowanie kreatywne</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel moodle="-1045">prof. UEK Paweł Wołoszyn</nauczyciel>
+<sala>Paw.A 116 lab. Win8, Office16</sala>
+</zajecia>
+<zajecia>
+<termin>2019-05-16</termin>
+<dzien>Cz</dzien>
+<od-godz>18:30</od-godz>
+<do-godz>20:00 (2g.)</do-godz>
+<przedmiot>Język obcy 1.2 - grupa przedmiotów</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel/>
+<sala/>
+</zajecia>
+<zajecia>
+<termin>2019-05-20</termin>
+<dzien>Pn</dzien>
+<od-godz>15:00</od-godz>
+<do-godz>16:30 (2g.)</do-godz>
+<przedmiot>Metody optymalizacji procesów</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel moodle="-2928">mgr Przemysław Jaśko</nauczyciel>
+<sala>Paw.A 301a lab.win10 Office16</sala>
+</zajecia>
+<zajecia>
+<termin>2019-05-20</termin>
+<dzien>Pn</dzien>
+<od-godz>16:45</od-godz>
+<do-godz>18:15 (2g.)</do-godz>
+<przedmiot>Marketing i handel elektroniczny</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel moodle="-908">dr Mariusz Kuziak</nauczyciel>
+<sala>Paw.B 151</sala>
+</zajecia>
+<zajecia>
+<termin>2019-05-20</termin>
+<dzien>Pn</dzien>
+<od-godz>18:30</od-godz>
+<do-godz>20:00 (2g.)</do-godz>
+<przedmiot>Język obcy 1.2 - grupa przedmiotów</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel/>
+<sala/>
+</zajecia>
+<zajecia>
+<termin>2019-05-21</termin>
+<dzien>Wt</dzien>
+<od-godz>18:30</od-godz>
+<do-godz>20:00 (2g.)</do-godz>
+<przedmiot>Język obcy 1.2 - grupa przedmiotów</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel/>
+<sala/>
+</zajecia>
+<zajecia>
+<termin>2019-05-22</termin>
+<dzien>Śr</dzien>
+<od-godz>11:30</od-godz>
+<do-godz>13:00 (2g.)</do-godz>
+<przedmiot>Bogate aplikacje internetowe</przedmiot>
+<typ>wykład</typ>
+<nauczyciel moodle="-218">dr Janusz Stal</nauczyciel>
+<sala>Paw.B 151</sala>
+</zajecia>
+<zajecia>
+<termin>2019-05-22</termin>
+<dzien>Śr</dzien>
+<od-godz>15:00</od-godz>
+<do-godz>16:30 (2g.)</do-godz>
+<przedmiot>Bogate aplikacje internetowe</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel moodle="-218">dr Janusz Stal</nauczyciel>
+<sala>Paw.A 115 lab. Win8, Office16</sala>
+</zajecia>
+<zajecia>
+<termin>2019-05-22</termin>
+<dzien>Śr</dzien>
+<od-godz>16:45</od-godz>
+<do-godz>18:15 (2g.)</do-godz>
+<przedmiot>Programowanie kreatywne</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel moodle="-1045">prof. UEK Paweł Wołoszyn</nauczyciel>
+<sala>Paw.A 116 lab. Win8, Office16</sala>
+</zajecia>
+<zajecia>
+<termin>2019-05-23</termin>
+<dzien>Cz</dzien>
+<od-godz>18:30</od-godz>
+<do-godz>20:00 (2g.)</do-godz>
+<przedmiot>Język obcy 1.2 - grupa przedmiotów</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel/>
+<sala/>
+</zajecia>
+<zajecia>
+<termin>2019-05-27</termin>
+<dzien>Pn</dzien>
+<od-godz>15:00</od-godz>
+<do-godz>16:30 (2g.)</do-godz>
+<przedmiot>Metody optymalizacji procesów</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel moodle="-2928">mgr Przemysław Jaśko</nauczyciel>
+<sala>Paw.A 301a lab.win10 Office16</sala>
+</zajecia>
+<zajecia>
+<termin>2019-05-27</termin>
+<dzien>Pn</dzien>
+<od-godz>18:30</od-godz>
+<do-godz>20:00 (2g.)</do-godz>
+<przedmiot>Język obcy 1.2 - grupa przedmiotów</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel/>
+<sala/>
+</zajecia>
+<zajecia>
+<termin>2019-05-28</termin>
+<dzien>Wt</dzien>
+<od-godz>16:45</od-godz>
+<do-godz>18:15 (2g.)</do-godz>
+<przedmiot>Modelowanie i symulacja komputerowa</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel moodle="-899">dr hab. Wit Urban</nauczyciel>
+<sala>Paw.A 301a lab.win10 Office16</sala>
+</zajecia>
+<zajecia>
+<termin>2019-05-28</termin>
+<dzien>Wt</dzien>
+<od-godz>18:30</od-godz>
+<do-godz>20:00 (2g.)</do-godz>
+<przedmiot>Język obcy 1.2 - grupa przedmiotów</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel/>
+<sala/>
+</zajecia>
+<zajecia>
+<termin>2019-05-29</termin>
+<dzien>Śr</dzien>
+<od-godz>15:00</od-godz>
+<do-godz>16:30 (2g.)</do-godz>
+<przedmiot>Bogate aplikacje internetowe</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel moodle="-218">dr Janusz Stal</nauczyciel>
+<sala>Paw.A 115 lab. Win8, Office16</sala>
+</zajecia>
+<zajecia>
+<termin>2019-05-29</termin>
+<dzien>Śr</dzien>
+<od-godz>16:45</od-godz>
+<do-godz>18:15 (2g.)</do-godz>
+<przedmiot>Programowanie kreatywne</przedmiot>
+<typ>ćwiczenia</typ>
+<nauczyciel moodle="-1045">prof. UEK Paweł Wołoszyn</nauczyciel>
+<sala>Paw.A 116 lab. Win8, Office16</sala>
+</zajecia>
+</plan-zajec>
